@@ -58,7 +58,7 @@ const asset = await fetchDigitalAsset(umi, mint);
 // example data for updating an existing NFT
 const updatedNftData = {
     name: "Lil Turtle in hat",
-    symbol: "LILM",
+    symbol: "LILTURTLE",
     description: "A small turtle with a big heart, in hat!",
     sellerFeeBasisPoints: percentAmount(5),
     imageFile: "lil_turtle_new.avif",
